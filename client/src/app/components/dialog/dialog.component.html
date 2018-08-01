@@ -1,0 +1,14 @@
+<div *ngIf='chillDate' id='dialogDiv'>
+  <h1>your cart send succsesfully</h1>
+  <p>for receipt click <a (click)='downloadReciept()'>here</a> </p>
+<input type="button" (click)='orderFinish()' value='confirm' class="btn btn-primary" />
+</div>
+
+
+<div *ngIf='busyDate' id='busyDay'>
+<h4>this Date too busy</h4>
+<p>please choose another day :)</p>
+<button (click)='busyDay()'>Got it</button>
+</div>
+
+

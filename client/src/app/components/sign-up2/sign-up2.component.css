@@ -1,0 +1,33 @@
+
+input{
+    text-align: center;
+}
+
+#commont{
+    color: red;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.signBtn{
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.arrow{
+    transform: rotate(180deg);
+    position: absolute;
+    right: 0;
+    width: 100%;
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+.arrowdiv{
+    position: relative;
+}
+
+@keyframes example {
+    0%   { width:0%;}
+    100% { width:100%;}
+}

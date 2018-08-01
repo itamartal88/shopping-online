@@ -1,0 +1,11 @@
+
+
+ 
+ <span  *ngFor='let category of categories' [ngStyle]="{'text-decoration':category.categoryId === categoryNum ? 'underline' : ''}" (click)=getCtagory(category)>{{category.Name}} | </span>   
+ <mat-icon id='favIcon' (click)="goToFavorite()" class="favIcon">favorite</mat-icon>
+ <app-products [showFavorite]="showFavorite" [showCategory]="showCategory" [pageAmount]='pageNumbers'  [category]='choosenCategory'></app-products>
+
+ <app-pages  [pageAmount]='pageNumbers'  [category]='choosenCategory'></app-pages>
+
+
+ 

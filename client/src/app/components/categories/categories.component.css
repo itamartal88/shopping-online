@@ -1,0 +1,28 @@
+
+
+
+
+span{
+    color:white;
+    font-size: 25px;
+}
+
+span:hover{
+    cursor: pointer;
+}
+
+.categories{
+    position: relative;
+}
+
+.favIcon{
+    color: white;
+    top: 5px;
+    position: relative;
+    left: 10px;
+    font-size: 25px;
+}
+
+.favIcon:hover{
+    cursor: pointer;
+}

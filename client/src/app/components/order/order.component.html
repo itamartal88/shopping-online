@@ -1,0 +1,30 @@
+<router-outlet></router-outlet>
+<app-top-bar></app-top-bar><br><br><br>
+
+<div id='main'>
+<div id='myCart'>
+  <a id='backToShop' (click)='backToShop()'><u>Back to shop</u></a>
+  <div id='text'>
+  <h4><u>My Cart</u></h4>
+  <div class="productInCart" *ngFor='let product of cart'>
+    <li [ngStyle]="{'background-color':getColor(product.product)}">{{product.product}}-{{product.productPrice}} * {{product.amount}}</li>
+   </div>
+   <span id='totalPrice'>total price:{{total | currency:"ILS"}}</span>
+  </div>
+</div>
+<div id='order'>
+  <h4><u>Order</u></h4>
+  <h6>Shipping Details:</h6>
+  <span>City<br><input (dblclick)='setCity()' [(ngModel)]="city" type="text"/></span><br><br>
+  <span>Street<br><input (dblclick)='setStreet()' [(ngModel)]="street" type="text"/></span><br><br>
+  <input id='date' [matDatepickerFilter]="myFilter" disabled [min]="minDate" [max]="maxDate" [(ngModel)]="shippingDate" matInput [matDatepicker]="picker" placeholder="Choose a date">
+  <mat-datepicker-toggle id='datePicker'  matSuffix [for]="picker"></mat-datepicker-toggle>
+  <mat-datepicker #picker disabled='false' touchUi="true" ></mat-datepicker><br><br>
+  <span>Credit Card<br><input id='credit-card' (keyup)='crditNum($event)' [(ngModel)]="creditCard" type="text"/></span><br><br>  
+  <input type="button"  value="Order" class="btn btn-primary" (click)='order()'/><br>
+  <span *ngIf='orderValidition'>{{commont}}</span>
+</div>
+</div>
+
+<img id='backImage' src='assets/images/blueBack.jpg'/>
+

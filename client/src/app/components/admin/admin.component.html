@@ -1,0 +1,40 @@
+
+
+
+<span id='newProduct'>Add new product <img (click)=showAddProduct() width="20px" height="20px" src='assets/images/plus.png' /></span>
+
+<div id='addDiv' *ngIf='showAdd'>
+    <h4>Add product</h4>
+<input type="text" [(ngModel)]='productName' placeholder="product name"/><br><br>
+<input type="text" id='categoryId' [(ngModel)]='categoryId' placeholder="category id"/><br><br>
+<input type="text" [(ngModel)]='productPrice' placeholder="product price"/><br><br>
+<input id='file' type='file' (change)="changeValue($event)"/><br><br>
+<input type="button" value='Add' (click)='addProduct()' class="btn btn-primary"/><br><br>
+<div id='categoryNumbers'>
+<p style="font-weight: bold">Category id:</p>
+<div *ngFor='let category of allCategories; let i = index'>
+<span>{{i + 1}} = {{category.Name}}</span><br>
+</div>
+</div>
+</div>
+
+<div id='editDiv' *ngIf='showEdit'>
+    <h4><u>Edit product</u></h4>
+ <div *ngIf='editSend'>   
+    <span>Name</span><br>
+<input type="text" id='editName' (change)="changeValue($event)" value="{{editProduct.productName}}"/><br><br>
+<span>Category</span><br>
+<select [(ngModel)]="productCategory">
+    <option [value]="productCategory">{{productCategory}}</option>
+    <option *ngFor='let category of allCategories' [value]="category.Name" [ngStyle]="{'display':category.Name === productCategory ? 'none' : 'block'}">{{category.Name}}</option>
+  </select><br><br>
+ <span>Price</span><br>
+<input id='editPrice' type="text" (change)="changeValue($event)" value="{{editProduct.unitPrice}}"/><br><br>
+<img src='http://localhost:4000/pictures/{{editProduct.img}}' width="40px" height="50px"/><br><br>
+<p>Change image:</p>
+<input id='editFile' type='file' (change)="changeValue($event)"/><br><br>
+<input type="button" value="save" (click)='sendEditProduct()'  class="btn btn-primary" />
+</div>
+<p id='commont' *ngIf='showCommont'>{{commont}}</p>
+
+</div>

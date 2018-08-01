@@ -1,0 +1,81 @@
+
+
+#main{
+    position: relative; 
+    margin: 5px;
+ }
+
+ #myCart{
+    position: absolute;
+    top:80px;
+    left: 100px;
+    width: 35%;
+    height: 70vh;
+    background-color:yellowgreen;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    overflow-y: auto;
+ }
+
+ a:hover{
+     cursor: pointer;
+ }
+
+ #backToShop{
+     position: absolute;
+     top:10px;
+     right: 20px;
+ }
+
+ #todayDate{
+    position: absolute;
+    top:10px;
+    left: 20px; 
+ }
+
+body{
+
+background-image: url('http://imgstocks.com/wp-content/uploads/2014/01/Bali-indonesia-wonderful-beach-of-world-with-best-view-entertainment.jpg');
+}
+
+#backImage{
+width: 100%;
+}
+ #order{
+    position: absolute;
+    right: 100px;
+    top:80px;
+    width: 30%;
+    height: 70vh;
+    background-color: coral;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    overflow-y: auto;
+ }
+
+ #date{
+     position: relative;
+     left:25px;
+ }
+
+ #datePicker{
+     position: relative;
+     right: 8px;
+ }
+
+
+ /*.holiday{
+     background-color: red;
+     color:blue;
+ }*/
+ 
+ #totalPrice{
+     color: red;
+     font-family: 'Varela Round', sans-serif;
+ }
+
+ .productInCart{
+    font-family: 'Varela Round', sans-serif;   
+ }

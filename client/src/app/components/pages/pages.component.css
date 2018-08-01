@@ -1,0 +1,22 @@
+
+#pageCont{
+    position: absolute;
+    top:80%;
+    background-color:slategray; 
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+#divPages{
+ /*   position: relative;*/
+    display: inline-block;
+}
+
+#pageNumber{
+    margin-left: 10px;
+}
+
+#pageNumber:hover{
+    cursor: pointer;
+}

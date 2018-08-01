@@ -1,0 +1,52 @@
+
+#step1{
+    width: 400px;
+    height: 430px;
+    background-color: rosybrown;
+    position: absolute;
+    right: 35%;
+    top:130px;
+    text-align: center;
+}
+
+
+#backImage{
+width: 100%;
+}
+
+#commont{
+    color: red;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+input{
+    text-align: center;
+}
+
+#step2{
+    width: 400px;
+    height: 430px;
+    background-color: rosybrown;
+    position: absolute;
+    right: 35%;
+    top:130px;  
+    text-align: center;
+}
+
+.arrow{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+@keyframes example {
+    0%   { width:0%; }
+    100% { width:100%; }
+}
+
+.arrowDiv{
+    position: relative;
+}

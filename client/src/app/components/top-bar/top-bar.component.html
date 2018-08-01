@@ -1,0 +1,8 @@
+
+
+<div class='top'>
+  <img height="40px" width="45px" src='assets/images/store.jpg' />
+ <span *ngIf='searchInput' id='search'>Search product<input type="text" (keyup)='searchProduct($event)' [(ngModel)]='search' placeholder="Product Name"/></span>
+ <input *ngIf='searchInput' (click)='logOut()' id='logout' type="button" value='logOut'  class="btn btn-danger"/>
+  <span id='contact'>phone: 046066042<br>address: kibbutz Messilot</span>
+</div>

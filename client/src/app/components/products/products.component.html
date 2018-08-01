@@ -1,0 +1,21 @@
+
+<h1 *ngIf="showCategory">products</h1>
+<h1 *ngIf="showFavorite">Your Favorite Products</h1>
+
+
+<div id='main'>
+<img id='arrToRight' (click)='getMoreProducts($event)' width="40px" height="60px" src='https://image.flaticon.com/icons/svg/54/54833.svg'/>
+<img id='arrToLeft' (click)='getMoreProducts($event)' width="40px" height="60px" src='https://www.shareicon.net/download/2015/12/05/682591_arrows.svg'/>
+<div class="w3-animate-opacity" id='products'  *ngFor='let product of products'>
+ <input style="display:none" value="{{product.productName}}" #message/>
+ <input style="display:none" value='Added to cart!' #action/>   
+<p id='productName' title='{{product.productName}}'>{{product.productName}}</p>
+<img class="newImg" *ngIf="checkDate(product)" src="./../../../assets/images/new1.png"/>
+<img title='{{product.productName}}' [ngStyle]="{cursor:admin === true ? 'auto' : 'pointer'}" (click)='addProductToCart($event,product,message.value, action.value)' width="60%" height="40%" src='http://localhost:4000/pictures/{{product.img}}'/>
+<p>{{product.unitPrice | currency:"ILS"}}</p>
+<input type='button' value='edit' *ngIf='admin' (click)='editProduct(product)' class="btn btn-primary" />
+<input type='button' id='addToCart' value='+' *ngIf='costumer' (click)='addProductToCart($event,product,message.value, action.value)' class="btn btn-primary" /><br>
+<input type='text' [value]="1" id='amount' *ngIf='costumer' />
+</div>
+<p *ngIf="products.length == 0 && checkHistory == true">You Dont Have Orders History</p>
+</div>

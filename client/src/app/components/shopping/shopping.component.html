@@ -1,0 +1,19 @@
+<router-outlet></router-outlet>
+
+<div id='main'>
+    <app-top-bar></app-top-bar><br><br><br>
+    <div id='shopping'>
+        <div id='catagories'>
+            <span id='showCart' *ngIf='costumer' (click)="openNav()">&#9776; show cart</span>
+            <span id='showCart' *ngIf='admin' (click)="openNav()">&#9776; Add/Edit</span>
+            <app-categories></app-categories>
+          </div> 
+          
+     </div>
+    </div>
+
+<div  class="sidenav" id='cart'>
+  <img (click)="closeNav()" width="20px" height="20px" src='https://www.shareicon.net/download/2016/08/06/807964_arrows.svg'/>
+  <app-cart *ngIf='costumer'></app-cart>
+  <app-admin *ngIf='admin'></app-admin>
+</div>

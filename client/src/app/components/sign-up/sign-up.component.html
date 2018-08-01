@@ -1,0 +1,19 @@
+<router-outlet></router-outlet>
+<app-top-bar></app-top-bar><br><br><br>
+<div id='step1'>
+    <h3>Step 1</h3>
+  ID<br><input  [(ngModel)]="id" type="text"/><br><br>
+  Email<br><input  [(ngModel)]="email" type="text"/><br><br>
+  Password<br><input [(ngModel)]="password" type="password"/><br><br>
+  Password confirm<br><input [(ngModel)]="confirmPassword" type="password"/><br><br>
+  <p id='commont' [(ngModel)]="commont" ngDefaultControl>{{commont}}</p>
+  <div class="arrowDiv">
+  <img class="arrow" height="40px;" src='assets/images/rArrow.png'/>
+  </div>
+ </div>
+
+<div id='step2'>
+  <app-sign-up2></app-sign-up2>
+</div>
+
+<img id='backImage' src='assets/images/greatView.jpg'/>

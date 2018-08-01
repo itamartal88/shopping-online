@@ -1,0 +1,72 @@
+
+#main{
+   position: relative; 
+   margin: 5px;
+}
+#loginForm{
+    position: absolute;
+    top:0;
+    width: 35%;
+    height: 100vh;
+    background-color: darkgrey;
+    display: inline-block;
+    text-align: center;
+}
+
+#commont{
+    color: red;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+#ourStore{
+    position: absolute;
+    top:0;
+    right: 29%;
+    width: 35%;
+    height: 100vh;
+    background-color:tan;
+    display: inline-block;
+    text-align: center;
+}
+.notifiContent{
+    margin-top: 10px;
+    font-family: 'Merienda', cursive;
+}
+.ourStoreContent{
+    font-family: 'Merienda', cursive;
+    margin-top: 10px;
+}
+
+#notificationMessage{
+    font-size: 16px;
+    font-family: Arial;
+    color:royalblue
+}
+
+#notificationName{
+    font-size: 16px;
+    font-family: Arial;
+    color: orangered;
+}
+
+#notification{
+    position: absolute;
+    top:0;
+    right: 0;
+    width: 28%;
+    height: 100vh;
+    background-color: darkgrey;
+    display: inline-block;
+    text-align: center;
+}
+
+a,button:hover{
+    cursor: pointer;
+}
+
+#shoppingBtn{
+    font-size: 26px;
+    border-radius: 50%;
+}
+

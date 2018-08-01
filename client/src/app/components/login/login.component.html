@@ -1,0 +1,35 @@
+<router-outlet></router-outlet>
+<app-top-bar></app-top-bar><br><br><br>
+<div id='main'>
+
+<div id='loginForm'>
+  <div id=''><br>
+    <button (click)='goToShop()' id='shoppingBtn' class="btn btn-danger">Start Shopping!</button><br>
+    registered?<br>
+  <input type="text"  [(ngModel)]="userName" placeholder="User Name"/><br><br>
+  <input type="password"  [(ngModel)]="password" placeholder="Password"/><br><br>
+  <p id='commont' [(ngModel)]="commont" ngDefaultControl>{{commont}}</p>
+  <button (click)='login()' class="btn btn-primary">Login</button>
+  <a (click)='signUp()'><u>Sign Up</u></a>
+</div>
+</div>
+
+<div id='ourStore'>
+  <div class="ourStoreContent">
+  Our store have a great collection of products!!<br>
+  we sell to many pepole around the world..<br> would
+  you join us?<br><br>
+  <img height="200px" width="250px" src='assets/images/store.jpg' />
+  </div>
+</div>
+
+
+<div id='notification'>
+  <div class="notifiContent">
+ <app-notification></app-notification> 
+ notification:<span id='notificationName'><br>{{name}}<br></span>
+ <span id='notificationMessage'>{{notification}}</span>
+  </div>
+</div>
+
+</div>

@@ -1,0 +1,40 @@
+
+
+#newProduct{
+    position: absolute;
+    right: 30px;
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+#addDiv{
+    margin-top: 100px;
+    text-align: center;
+}
+
+#editDiv{
+    margin-top: 100px;
+    text-align: center;
+}
+#editFile{
+    position: relative;
+    margin-left: 35px;
+}
+
+#commont{
+    margin-top: 150px;
+}
+
+#file{
+    position: relative;
+    margin-left: 35px;
+}
+
+#categoryNumbers{
+    position: relative;
+    width: 100%;
+    text-align: left;
+    margin-left: 5px;
+}

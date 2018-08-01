@@ -1,0 +1,55 @@
+
+
+a{
+    color: black;
+    font-size: 20px;
+    position: relative;
+    top:100px;
+    left: 0px;
+}
+
+a:hover{
+    cursor: pointer;
+}
+
+i:hover{
+    cursor: pointer;  
+}
+
+li{
+    display: inline-block;
+}
+
+#productName{
+    white-space: nowrap; 
+    width: 100px; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    display: inline-block;
+}
+
+#productAmount{
+    position: relative;
+    top:-15px;
+}
+
+#deleteCart{
+    position: absolute;
+    right: 0;
+    top:80px;
+}
+
+.cart{
+    font-family: 'Varela Round', sans-serif; 
+}
+
+.price{
+    font-family: 'Knewave', cursive;
+    font-size: 20px;
+    position: absolute;
+    left: 0;
+}
+
+.bottomCart{
+    text-align: center;
+}

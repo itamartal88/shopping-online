@@ -1,0 +1,10 @@
+<h4>My Cart</h4>
+<i id='deleteCart' (click)='deleteCart()' class="material-icons">delete_forever</i>
+<hr>
+<div class="cart" *ngFor='let product of cart'>
+ <p id='productName' title="{{product.product}}">{{product.product}}</p><span id='productAmount' >{{product.productPrice}} * {{product.amount}}<i (click)='deleteItemFromCart(product)' class="material-icons">delete_forever</i></span>
+</div>
+<div class="bottomCart">
+<span class="price">total price:{{total}}</span>
+<a (click)='goToOrder()'><u>Order</u></a>
+</div>

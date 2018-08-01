@@ -1,0 +1,5 @@
+<div id='pageCont' [ngStyle]="{'top':getTop()}">
+<div id='divPages' *ngFor="let page of pageAmount"> 
+<span id='pageNumber' (click)='getPage(page)' [ngStyle]="{'color':page === pageNum ? 'red' : 'black'}">{{page}}</span>    
+</div>
+</div>
