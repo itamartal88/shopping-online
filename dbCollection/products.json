@@ -1,0 +1,111 @@
+{"_id":{"$oid":"5a92ebf74fb403365e383f48"},"productID":1.0,"productName":"Chai","unitPrice":18,"unitsInStock":39.0,"unitsOnOrder":0.0,"img":"1.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f49"},"productID":2.0,"productName":"Chang","unitPrice":19,"unitsInStock":17.0,"unitsOnOrder":40.0,"img":"2.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f4a"},"productID":3.0,"productName":"Aniseed Syrup","unitPrice":11,"unitsInStock":13.0,"unitsOnOrder":70.0,"img":"3.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f4b"},"productID":4.0,"productName":"Chef Anton's Cajun Seasoning","unitPrice":22,"unitsInStock":53.0,"unitsOnOrder":0.0,"img":"4.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f4c"},"productID":5.0,"productName":"Chef Anton's Gumbo Mix","unitPrice":21.35,"unitsInStock":0.0,"unitsOnOrder":0.0,"img":"5.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f4d"},"productID":6.0,"productName":"Grandma's Boysenberry Spread","unitPrice":25,"unitsInStock":120.0,"unitsOnOrder":0.0,"img":"6.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f4e"},"productID":7.0,"productName":"Uncle Bob's Organic Dried Pears","unitPrice":30,"unitsInStock":15.0,"unitsOnOrder":0.0,"img":"7.jpg","categoryId":{"$oid":"5ab2cec033085e6105430165"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f4f"},"productID":8.0,"productName":"Northwoods Cranberry Sauce","unitPrice":35,"unitsInStock":6.0,"unitsOnOrder":0.0,"img":"8.jpg","categoryId":{"$oid":"5ab2cec033085e6105430165"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f50"},"productID":9.0,"productName":"Mishi Kobe Niku","unitPrice":97,"unitsInStock":29.0,"unitsOnOrder":0.0,"img":"9.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f51"},"productID":10.0,"productName":"Ikura","unitPrice":31,"unitsInStock":31.0,"unitsOnOrder":0.0,"img":"10.jpg","categoryId":{"$oid":"5ab2cec033085e6105430165"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f52"},"productID":11.0,"productName":"Queso Cabrales","unitPrice":21,"unitsInStock":22.0,"unitsOnOrder":30.0,"img":"11.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f53"},"productID":12.0,"productName":"Queso Manchego La Pastora","unitPrice":38,"unitsInStock":86.0,"unitsOnOrder":0.0,"img":"12.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f54"},"productID":13.0,"productName":"Konbu","unitPrice":6,"unitsInStock":24.0,"unitsOnOrder":0.0,"img":"13.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f55"},"productID":14.0,"productName":"Tofu","unitPrice":23.25,"unitsInStock":35.0,"unitsOnOrder":0.0,"img":"14.jpg","categoryId":{"$oid":"5ab2cec033085e6105430165"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f56"},"productID":15.0,"productName":"Genen Shouyu","unitPrice":15.5,"unitsInStock":39.0,"unitsOnOrder":0.0,"img":"15.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f57"},"productID":16.0,"productName":"Pavlova","unitPrice":15.3,"unitsInStock":29.0,"unitsOnOrder":0.0,"img":"16.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f58"},"productID":17.0,"productName":"Alice Mutton","unitPrice":39.0,"unitsInStock":0.0,"unitsOnOrder":0.0,"img":"17.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f59"},"productID":18.0,"productName":"Carnarvon Tigers","unitPrice":62.5,"unitsInStock":42.0,"unitsOnOrder":0.0,"img":"18.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f5a"},"productID":19.0,"productName":"Teatime Chocolate Biscuits","unitPrice":9.2,"unitsInStock":25.0,"unitsOnOrder":0.0,"img":"19.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f5b"},"productID":20.0,"productName":"Sir Rodney's Marmalade","unitPrice":81,"unitsInStock":40.0,"unitsOnOrder":0.0,"img":"20.jpg","categoryId":{"$oid":"5ab2cec033085e6105430165"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f5c"},"productID":21.0,"productName":"Sir Rodney's Scones","unitPrice":10,"unitsInStock":3.0,"unitsOnOrder":40.0,"img":"21.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f5d"},"productID":22.0,"productName":"Gustaf's Knäckebröd","unitPrice":21,"unitsInStock":104.0,"unitsOnOrder":0.0,"img":"22.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f5e"},"productID":23.0,"productName":"Tunnbröd","unitPrice":9,"unitsInStock":61.0,"unitsOnOrder":0.0,"img":"23.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f5f"},"productID":24.0,"productName":"Guaraná Fantástica","unitPrice":4.5,"unitsInStock":20.0,"unitsOnOrder":0.0,"img":"24.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f60"},"productID":25.0,"productName":"NuNuCa Nuß-Nougat-Creme","unitPrice":14,"unitsInStock":76.0,"unitsOnOrder":0.0,"img":"25.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f61"},"productID":26.0,"productName":"Gumbär Gummibärchen","unitPrice":31.23,"unitsInStock":15.0,"unitsOnOrder":0.0,"img":"26.jpg","categoryId":{"$oid":"5ab2cec033085e6105430165"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f62"},"productID":27.0,"productName":"Schoggi Schokolade","unitPrice":43.9,"unitsInStock":49.0,"unitsOnOrder":0.0,"img":"27.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f63"},"productID":28.0,"productName":"Rössle Sauerkraut","unitPrice":45.6,"unitsInStock":26.0,"unitsOnOrder":0.0,"img":"28.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f64"},"productID":29.0,"productName":"Thüringer Rostbratwurst","unitPrice":123.79,"unitsInStock":0.0,"unitsOnOrder":0.0,"img":"29.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f65"},"productID":30.0,"productName":"Nord-Ost Matjeshering","unitPrice":25.89,"unitsInStock":10.0,"unitsOnOrder":0.0,"img":"30.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f66"},"productID":31.0,"productName":"Gorgonzola Telino","unitPrice":12.5,"unitsInStock":0.0,"unitsOnOrder":70.0,"img":"31.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f67"},"productID":32.0,"productName":"Mascarpone Fabioli","unitPrice":32,"unitsInStock":9.0,"unitsOnOrder":40.0,"img":"32.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f68"},"productID":33.0,"productName":"Geitost","unitPrice":2.5,"unitsInStock":112.0,"unitsOnOrder":0.0,"img":"33.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f69"},"productID":34.0,"productName":"Sasquatch Ale","unitPrice":14,"unitsInStock":111.0,"unitsOnOrder":0.0,"img":"34.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f6a"},"productID":35.0,"productName":"Steeleye Stout","unitPrice":18,"unitsInStock":20.0,"unitsOnOrder":0.0,"img":"35.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f6b"},"productID":36.0,"productName":"Inlagd Sill","unitPrice":19.0,"unitsInStock":112.0,"unitsOnOrder":0.0,"img":"36.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f6c"},"productID":37.0,"productName":"Gravad lax","unitPrice":26.0,"unitsInStock":11.0,"unitsOnOrder":50.0,"img":"37.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f6d"},"productID":38.0,"productName":"Côte de Blaye","unitPrice":263.5,"unitsInStock":17.0,"unitsOnOrder":0.0,"img":"38.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f6e"},"productID":39.0,"productName":"Chartreuse verte","unitPrice":18,"unitsInStock":69.0,"unitsOnOrder":0.0,"img":"39.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f6f"},"productID":40.0,"productName":"Boston Crab Meat","unitPrice":18.4,"unitsInStock":123.0,"unitsOnOrder":0.0,"img":"40.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f70"},"productID":41.0,"productName":"Jack's New England Clam Chowder","unitPrice":9.65,"unitsInStock":85.0,"unitsOnOrder":0.0,"img":"41.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f71"},"productID":42.0,"productName":"Singaporean Hokkien Fried Mee","unitPrice":14.0,"unitsInStock":26.0,"unitsOnOrder":0.0,"img":"42.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f72"},"productID":43.0,"productName":"Ipoh Coffee","unitPrice":46,"unitsInStock":17.0,"unitsOnOrder":10.0,"img":"43.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f73"},"productID":44.0,"productName":"Gula Malacca","unitPrice":19.45,"unitsInStock":27.0,"unitsOnOrder":0.0,"img":"44.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f74"},"productID":45.0,"productName":"Rogede sild","unitPrice":9.5,"unitsInStock":5.0,"unitsOnOrder":70.0,"img":"45.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f75"},"productID":46.0,"productName":"Spegesild","unitPrice":12.0,"unitsInStock":95.0,"unitsOnOrder":0.0,"img":"46.jpg","categotyId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f76"},"productID":47.0,"productName":"Zaanse koeken","unitPrice":9.5,"unitsInStock":36.0,"unitsOnOrder":0.0,"img":"47.jpg","categoryId":{"$oid":"5ab2cec033085e6105430165"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f77"},"productID":48.0,"productName":"Chocolade","unitPrice":12.75,"unitsInStock":15.0,"unitsOnOrder":70.0,"img":"48.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f78"},"productID":49.0,"productName":"Maxilaku","unitPrice":20,"unitsInStock":10.0,"unitsOnOrder":60.0,"img":"49.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f79"},"productID":50.0,"productName":"Valkoinen suklaa","unitPrice":16.25,"unitsInStock":65.0,"unitsOnOrder":0.0,"img":"50.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f7a"},"productID":51.0,"productName":"Manjimup Dried Apples","unitPrice":53,"unitsInStock":20.0,"unitsOnOrder":0.0,"img":"51.jpg","categoryId":{"$oid":"5ab2cec033085e6105430165"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f7b"},"productID":52.0,"productName":"Filo Mix","unitPrice":7.0,"unitsInStock":38.0,"unitsOnOrder":0.0,"img":"52.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f7c"},"productID":53.0,"productName":"Perth Pasties","unitPrice":32.8,"unitsInStock":0.0,"unitsOnOrder":0.0,"img":"53.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f7d"},"productID":54.0,"productName":"Tourtière","unitPrice":7.45,"unitsInStock":21.0,"unitsOnOrder":0.0,"img":"54.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f7e"},"productID":55.0,"productName":"Pâté chinois","unitPrice":24.0,"unitsInStock":115.0,"unitsOnOrder":0.0,"img":"55.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f7f"},"productID":56.0,"productName":"Gnocchi di nonna Alice","unitPrice":38.0,"unitsInStock":21.0,"unitsOnOrder":10.0,"img":"56.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f80"},"productID":57.0,"productName":"Ravioli Angelo","unitPrice":19.5,"unitsInStock":36.0,"unitsOnOrder":0.0,"img":"57.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f81"},"productID":58.0,"productName":"Escargots de Bourgogne","unitPrice":13.25,"unitsInStock":62.0,"unitsOnOrder":0.0,"img":"58.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f82"},"productID":59.0,"productName":"Raclette Courdavault","unitPrice":55,"unitsInStock":79.0,"unitsOnOrder":0.0,"img":"59.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f83"},"productID":60.0,"productName":"Camembert Pierrot","unitPrice":34,"unitsInStock":19.0,"unitsOnOrder":0.0,"img":"60.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f84"},"productID":61.0,"productName":"Sirop d'érable","unitPrice":28.5,"unitsInStock":113.0,"unitsOnOrder":0.0,"img":"61.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f85"},"productID":62.0,"productName":"Tarte au sucre","unitPrice":49.3,"unitsInStock":17.0,"unitsOnOrder":0.0,"img":"62.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f86"},"productID":63.0,"productName":"Vegie-spread","unitPrice":43.9,"unitsInStock":24.0,"unitsOnOrder":0.0,"img":"63.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f87"},"productID":64.0,"productName":"Wimmers gute Semmelknödel","unitPrice":33.25,"unitsInStock":22.0,"unitsOnOrder":80.0,"img":"64.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f88"},"productID":65.0,"productName":"Louisiana Fiery Hot Pepper Sauce","unitPrice":21.05,"unitsInStock":76.0,"unitsOnOrder":0.0,"img":"65.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f89"},"productID":66.0,"productName":"Louisiana Hot Spiced Okra","unitPrice":17,"unitsInStock":4.0,"unitsOnOrder":100.0,"img":"66.jpg","categoryId":{"$oid":"5ab2cec033085e6105430165"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f8a"},"productID":67.0,"productName":"Laughing Lumberjack Lager","unitPrice":14,"unitsInStock":52.0,"unitsOnOrder":0.0,"img":"67.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f8b"},"productID":68.0,"productName":"Scottish Longbreads","unitPrice":12.5,"unitsInStock":6.0,"unitsOnOrder":10.0,"img":"68.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f8c"},"productID":69.0,"productName":"Gudbrandsdalsost","unitPrice":36,"unitsInStock":26.0,"unitsOnOrder":0.0,"img":"69.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f8d"},"productID":70.0,"productName":"Outback Lager","unitPrice":15,"unitsInStock":15.0,"unitsOnOrder":10.0,"img":"70.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f8e"},"productID":71.0,"productName":"Flotemysost","unitPrice":21.5,"unitsInStock":26.0,"unitsOnOrder":0.0,"img":"71.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f8f"},"productID":72.0,"productName":"Mozzarella di Giovanni","unitPrice":34.8,"unitsInStock":14.0,"unitsOnOrder":0.0,"img":"72.jpg","categoryId":{"$oid":"5ab2cec033085e6105430166"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f90"},"productID":73.0,"productName":"Röd Kaviar","unitPrice":15,"unitsInStock":101.0,"unitsOnOrder":0.0,"img":"73.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f91"},"productID":74.0,"productName":"Longlife Tofu","unitPrice":10,"unitsInStock":4.0,"unitsOnOrder":20.0,"img":"74.jpg","categoryId":{"$oid":"5ab2cec033085e6105430165"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f92"},"productID":75.0,"productName":"Rhönbräu Klosterbier","unitPrice":7.75,"unitsInStock":125.0,"unitsOnOrder":0.0,"img":"75.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f93"},"productID":76.0,"productName":"Lakkalikööri","unitPrice":18,"unitsInStock":57.0,"unitsOnOrder":0.0,"img":"76.jpg","categoryId":{"$oid":"5ab2cec033085e6105430167"}}
+{"_id":{"$oid":"5a92ebf74fb403365e383f94"},"productID":77.0,"productName":"Original Frankfurter grüne Soße","unitPrice":13.0,"unitsInStock":32.0,"unitsOnOrder":0.0,"img":"77.jpg","categoryId":{"$oid":"5ab2cd8633085e6105430164"}}
+{"_id":{"$oid":"5ac0065b4b9ec436f05f9570"},"productName":"milki","categoryId":{"$oid":"5ab2cec033085e6105430166"},"unitPrice":4.5,"img":"milki.jpg","__v":0}
+{"_id":{"$oid":"5ac006724b9ec436f05f9571"},"productName":"bamba","categoryId":{"$oid":"5ab2cec033085e6105430166"},"unitPrice":5.2,"img":"bamba.png","__v":0}
+{"_id":{"$oid":"5ac1ef95e5746b3da4f90a70"},"productName":"coca cola","categoryId":{"$oid":"5ab2cec033085e6105430167"},"unitPrice":5.4,"img":"coca cola.jpg","__v":0}
+{"_id":{"$oid":"5ac1f03ee5746b3da4f90a71"},"productName":"watermelon","categoryId":{"$oid":"5ab2cec033085e6105430165"},"unitPrice":12,"img":"watermelon.jpg","__v":0}
+{"_id":{"$oid":"5ac1fcc019ac043dcc4d3cd8"},"productName":"eggs","categoryId":{"$oid":"5ab2cec033085e6105430166"},"unitPrice":11.3,"img":"eggs.jpg","__v":0}
+{"_id":{"$oid":"5ac210dcfc985e16d0f026b3"},"productName":"chicken","categoryId":{"$oid":"5ab2cd8633085e6105430164"},"unitPrice":16,"img":"chicken.jpg","__v":0}
+{"_id":{"$oid":"5ac21abd8bf78b14ccc24eb0"},"productName":"banana","categoryId":{"$oid":"5ab2cec033085e6105430165"},"unitPrice":8,"img":"banana.jpg","__v":0}
+{"_id":{"$oid":"5ac61fab89b43943b0f680d9"},"productName":"mango","categoryId":{"$oid":"5ab2cec033085e6105430165"},"unitPrice":8,"img":"mango.jpg","__v":0}
+{"_id":{"$oid":"5ac61ffd89b43943b0f680da"},"productName":"goldstar","categoryId":{"$oid":"5ab2cec033085e6105430167"},"unitPrice":6.5,"img":"goldstar.jpg","__v":0}
+{"_id":{"$oid":"5ac6207d89b43943b0f680db"},"productName":"breezer","categoryId":{"$oid":"5ab2cec033085e6105430167"},"unitPrice":12,"img":"breezer.jpg","__v":0}
+{"_id":{"$oid":"5ac620e389b43943b0f680dc"},"productName":"fish fillet","categoryId":{"$oid":"5ab2cd8633085e6105430164"},"unitPrice":18,"img":"fish filet.jpg","__v":0}
+{"_id":{"$oid":"5ac6215389b43943b0f680dd"},"productName":"pastrama","categoryId":{"$oid":"5ab2cd8633085e6105430164"},"unitPrice":19,"img":"pastrama.jpg","__v":0}
+{"_id":{"$oid":"5ac621b889b43943b0f680de"},"productName":"kebab","categoryId":{"$oid":"5ab2cd8633085e6105430164"},"unitPrice":20,"img":"kebab.jpg","__v":0}
+{"_id":{"$oid":"5ac622a189b43943b0f680df"},"productName":"chicken hearts","categoryId":{"$oid":"5ab2cd8633085e6105430164"},"unitPrice":15,"img":"chicken hearts.png","__v":0}
+{"_id":{"$oid":"5ac6239e89b43943b0f680e0"},"productName":"labana","categoryId":{"$oid":"5ab2cec033085e6105430166"},"unitPrice":7,"img":"labana.jpg","__v":0}
+{"_id":{"$oid":"5ac725501b757623f47b5cac"},"productName":"koteg","categoryId":{"$oid":"5ab2cec033085e6105430166"},"unitPrice":5.5,"img":"koteg.jpg","__v":0}
+{"_id":{"$oid":"5acbde7ab9bb7a33e0eeda10"},"productName":"vodka","categoryId":{"$oid":"5ab2cec033085e6105430167"},"unitPrice":180,"img":"vodka.jpg","__v":0}
+{"_id":{"$oid":"5ae0fb12be539235f8f0256d"},"productName":"lamb chops","categoryId":{"$oid":"5ab2cd8633085e6105430164"},"unitPrice":90,"img":"lamb chops.jpg","__v":0}
+{"_id":{"$oid":"5ae0fb79be539235f8f0256e"},"productName":"pasta bolognese","categoryId":{"$oid":"5ab2cd8633085e6105430164"},"unitPrice":35,"img":"pasta bolognese.jpg","__v":0}
+{"_id":{"$oid":"5ae0fbecbe539235f8f0256f"},"productName":"kobe","categoryId":{"$oid":"5ab2cd8633085e6105430164"},"unitPrice":40,"img":"kobe.jpg","__v":0}
+{"_id":{"$oid":"5ae0fc3dbe539235f8f02570"},"productName":"schnitzel","categoryId":{"$oid":"5ab2cd8633085e6105430164"},"unitPrice":30,"img":"schnitzel.jpg","__v":0}
+{"_id":{"$oid":"5ae0fcb0be539235f8f02571"},"productName":"chicken wings","categoryId":{"$oid":"5ab2cd8633085e6105430164"},"unitPrice":20,"img":"chicken wings.jpg","__v":0}
+{"_id":{"$oid":"5ae0fcf7be539235f8f02572"},"productName":"melon","categoryId":{"$oid":"5ab2cec033085e6105430165"},"unitPrice":15,"img":"melon.png","__v":0}
+{"_id":{"$oid":"5ae0fd4abe539235f8f02573"},"productName":"tomato","categoryId":{"$oid":"5ab2cec033085e6105430165"},"unitPrice":7.5,"img":"tomato.jpg","__v":0}
+{"_id":{"$oid":"5ae0fe02be539235f8f02574"},"productName":"cucumber","categoryId":{"$oid":"5ab2cec033085e6105430165"},"unitPrice":5,"img":"cucumber.jpg","__v":0}
+{"_id":{"$oid":"5ae0fe46be539235f8f02575"},"productName":"tea","categoryId":{"$oid":"5ab2cec033085e6105430167"},"unitPrice":4.5,"img":"tea.jpg","__v":0}
+{"_id":{"$oid":"5ae0fe82be539235f8f02576"},"productName":"milk","categoryId":{"$oid":"5ab2cec033085e6105430166"},"unitPrice":4.5,"img":"milk.jpg","__v":0}
+{"_id":{"$oid":"5ae0fec1be539235f8f02577"},"productName":"ice cream","categoryId":{"$oid":"5ab2cec033085e6105430166"},"unitPrice":20,"img":"ice-cream.jpg","__v":0}
+{"_id":{"$oid":"5ae0ff25be539235f8f02578"},"productName":"leben","categoryId":{"$oid":"5ab2cec033085e6105430166"},"unitPrice":5,"img":"leben.jpg","__v":0}
+{"_id":{"$oid":"5ae0ff57be539235f8f02579"},"productName":"egozi","categoryId":{"$oid":"5ab2cec033085e6105430166"},"unitPrice":6,"img":"egozi.jpg","__v":0}
+{"_id":{"$oid":"5ae0ffbabe539235f8f0257a"},"productName":"yellow cheese","categoryId":{"$oid":"5ab2cec033085e6105430166"},"unitPrice":12,"img":"cheese.jpg","__v":0}
+{"_id":{"$oid":"5ae10313be539235f8f0257c"},"productName":"strawberry","categoryId":{"$oid":"5ab2cec033085e6105430165"},"unitPrice":15,"img":"strawberry.jpg","__v":0}
+{"_id":{"$oid":"5ae84a6ee26008121c19eb02"},"productName":"nestea","categoryId":{"$oid":"5ab2cec033085e6105430167"},"unitPrice":5,"img":"nestea.jpg","__v":0}
+{"_id":{"$oid":"5aec638cb647a719508eb63b"},"categoryId":[{"$oid":"5ab2cec033085e6105430165"}],"productName":"eggplant","unitPrice":7,"img":"eggplant.jpg","__v":0}

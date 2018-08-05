@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5ab2cd8633085e6105430164"},"Name":"Fish \u0026 meat","categoryId":1}
+{"_id":{"$oid":"5ab2cec033085e6105430165"},"Name":"Vegetables \u0026 Friuts","categoryId":2}
+{"_id":{"$oid":"5ab2cec033085e6105430166"},"Name":"Eggs \u0026 Milk","categoryId":3}
+{"_id":{"$oid":"5ab2cec033085e6105430167"},"Name":"Wine \u0026 Drinks","categoryId":4}
+
+
+
